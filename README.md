@@ -4,7 +4,7 @@
     This repository contains data for the project: Physics-informed transformers for faithfully deorbitalised meta-GGA exchange-correlation functionals
   </p>
   <p align="center">
-    <img src="Overview.png" width="800" />
+    <img src="Meta-GGA-Overview.png" width="800" />
     <br>
     <em>Tuning Hubbard projectors as a linear combination of numeric atom-centred orbital basis functions, for the simulation of polarons in strongly correlated metal oxides.</em>
   </p>
