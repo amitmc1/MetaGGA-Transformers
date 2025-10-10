@@ -7,7 +7,7 @@
       <strong>Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals</strong>
     </li>
     <li>
-      All additional data (datasets, training scripts, model weights, etc.) has been uploaded to Figshare at the DOI: XXX
+      All additional data (datasets, training scripts, model weights, etc.) has been uploaded to Figshare at the DOI: <a href="https://doi.org/10.6084/m9.figshare.30328855.v1" target="_blank" style="color: #1a73e8; text-decoration: none;">https://doi.org/10.6084/m9.figshare.30328855.v1</a>
     </li>
   </ul>
 
@@ -94,7 +94,7 @@
 
 <ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
   <li>
-    The Mixture-of-Experts (MoE) model is inferenced by running <code>eval_full_MoE.py</code> inside a directory with a <code>normalization_constants_full.json</code> file, and two subdirectories containing the expert models and gating network (uploaded to Figshare at the DOI: XXX). Within <code>eval_full_MoE.py</code>, one can specify the path to the pre-processed input files for a given system. 
+    The Mixture-of-Experts (MoE) model is inferenced by running <code>eval_full_MoE.py</code> inside a directory with a <code>normalization_constants_full.json</code> file, and two subdirectories containing the expert models and gating network (uploaded to Figshare at the DOI: <a href="https://doi.org/10.6084/m9.figshare.30328855.v1" target="_blank" style="color: #1a73e8; text-decoration: none;">https://doi.org/10.6084/m9.figshare.30328855.v1</a>). Within <code>eval_full_MoE.py</code>, one can specify the path to the pre-processed input files for a given system. 
   </li>
 </ul>
  
