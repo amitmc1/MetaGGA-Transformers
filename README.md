@@ -26,25 +26,22 @@
 
 <ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
   <li>
-    Python version 3.11.2: create a virtual environment using 
-    <code>python3.11 -m venv mace_venv</code> and activate it with 
-    <code>source mace_venv/bin/activate</code>
+    Python version 3.11.2 virtual environment
   </li>
   <li>
-    Core packages: install via 
-    <code>pip install torch numpy pandas matplotlib</code>
+    Core packages: <code>pip install torch numpy pandas matplotlib e3nn</code>
   </li>
   <li>
-    PyLibXC version 7.0.0: installed via 
-    <code>conda install -c conda-forge pylibxc</code>
+    PyLibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
   </li>
   <li>
     LibXC shared libraries (<code>libxc.so</code> / <code>libxc.dylib</code>): 
     copy or symlink from your Conda environment into the virtual environment’s <code>lib/</code> directory, e.g. 
-    <code>cp /path/to/conda/envs/pylibxc_env/lib/libxc.* /scratch/username/mace_venv/lib/</code>
+    <code>cp /path/to/conda/envs/pylibxc_env/lib/libxc.* /scratch/c.c21127846/mace_venv/lib/</code>
   </li>
   <li>
-    Optional GPU acceleration: requires CUDA 11.6+ and a compatible PyTorch build
+    Before activating the virtual environment, export the library path to include Libxc:
+    <code>export LD_LIBRARY_PATH={virtual_environment_path/lib}:$LD_LIBRARY_PATH</code>
   </li>
 </ul>
 
