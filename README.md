@@ -85,7 +85,14 @@
 
 </ul>
 
+<h2 align="center" style="margin-top: 10px; color: #333;">
+  Mixture-of-Experts Model Inference
+</h2>
 
-
-  
+<ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
+  <li>
+    The Mixture-of-Experts (MoE) model is inferenced by running <code>eval_full_MoE.py</code> inside a directory with a <code>normalization_constants_full.json</code> file, and two subdirectories containing the expert models and gating network (uploaded to Figshare at the DOI: XXX). Within <code>eval_full_MoE.py</code>, one can specify the path to the pre-processed input files for a given system. 
+  </li>
+</ul>
+ 
 </div>
