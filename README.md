@@ -22,6 +22,9 @@
 
   <h2 align="center" style="margin-top: 10px; color: #333;">
   Requirements
+    <p align="center">
+    Pylibxc version 7.0.0: installed via <conda install conda-forge::pylibxc>
+    </p>
   </h2>
 
   <h2 align="center" style="margin-top: 10px; color: #333;">
