@@ -60,6 +60,8 @@
     Data to evaluate faithful deorbitalization for non-self-consistent densities was obtained via similar post-processing of meta-GGA DFT outputs, but for intermediate densities sampled along the SCF cycle. Non-self-consistent densities were generated and post-prcoessed using the keywords <code>rho_and_derivs_on_grid</code>, <code>sc_iter_limit</code> and <code>postprocess_anyway</code>. 
   </li>
 
+</ul>
+
 <h2 align="center" style="margin-top: 10px; color: #333;">
   Data Pre-Processing for the Mixture-of-Experts Model
 </h2>
