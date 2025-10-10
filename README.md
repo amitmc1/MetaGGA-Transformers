@@ -11,9 +11,8 @@
     </li>
   </ul>
 
-
   <h2 align="center" style="margin-top: 10px; color: #333;">
-  Requirements
+  Overview
   </h2>
   <p align="center">
     <img src="Meta-GGA-overview.png" width="800" />
