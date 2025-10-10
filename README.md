@@ -61,13 +61,26 @@
   </li>
 
 <h2 align="center" style="margin-top: 10px; color: #333;">
-  Mixture-of-Experts Model Inference
+  Data Pre-Processing for the Mixture-of-Experts Model
 </h2>
 
 <ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
   <li>
-Add description of paths, inputs, outputs ...
+    The Mixture-of-Experts (MoE) model is inferenced for a pre-computed set of inputs, which requires pre-processing in 5 steps
   </li>
+  <li>
+    <code>Eval_MGGA_X_MS2.py</code> inferences the General Density Approximation (GDA) kinetic energy density functional, given the FHI-aims computed inputs
+  </li>
+  <li>
+    <code>Pylibxc_MGGA_X_MS2.py</code> inferences a Libxc-defined, semi-local meta-GGA exchange-correlation functional, given the FHI-aims computed inputs. The results of the orbital-dependent and deorbitalized Libxc functional are computed
+  </li>
+  <li>
+    <code>Remove_rho_zero.py</code> cleans the output file from <code>Pylibxc_MGGA_X_MS2.py</code>
+  </li>
+  <li>
+    <code>Evaluate_metaGGA_descriptors.py</code> evaluates all additional input features required for the MoE model 
+  </li>
+
 </ul>
 
 
