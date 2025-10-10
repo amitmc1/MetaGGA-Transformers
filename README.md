@@ -7,7 +7,7 @@
       <strong>Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals</strong>
     </li>
     <li>
-      All additional data (datasets, training scripts, model weights, etc.) has been uploaded to Figshare at the DOI: <a href="https://doi.org/10.6084/m9.figshare.30328855.v1" target="_blank" style="color: #1a73e8; text-decoration: none;">https://doi.org/10.6084/m9.figshare.30328855.v1</a>
+      All additional data (datasets, training scripts, model weights, etc.) have been uploaded to Figshare at the DOI: <a href="https://doi.org/10.6084/m9.figshare.30328855.v1" target="_blank" style="color: #1a73e8; text-decoration: none;">https://doi.org/10.6084/m9.figshare.30328855.v1</a>
     </li>
   </ul>
 
