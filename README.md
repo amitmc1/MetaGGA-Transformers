@@ -6,6 +6,6 @@
   <p align="center">
     <img src="Meta-GGA-overview.png" width="800" />
     <br>
-    <em>Physics-informed deep learning approach for reparameterising exchange-correlation enhancement factors to improve the accuracy of energy densities and partial derivatives of deorbitalized meta-GGA exchange-correlation functionals</em>
+    <em>Summary of the physics-informed deep learning approach for reparameterizing exchange-correlation enhancement factors. The goal is to construct a surrogate model that mimics a faithfully deorbitalized meta-GGA functional, i.e., accurately predicting exchange-correlation energy densities and partial derivatives across real-space integration grids, whilst using only orbital-free input features.</em>
   </p>
 </div>
