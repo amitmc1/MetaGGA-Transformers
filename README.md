@@ -3,6 +3,10 @@
   <p align="center">
     This repository contains research code for the project (in preparation): Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals, including all code for model inference. All additional data (datasets, training scripts etc.) has been uploaded to Figshare at the DOI:
   </p>
+
+  <h2 align="center" style="margin-top: 10px; color: #333;">
+  Requirements
+  </h2>
   <p align="center">
     <img src="Meta-GGA-overview.png" width="800" />
     <br>
