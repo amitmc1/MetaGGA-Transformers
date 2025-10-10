@@ -1,8 +1,16 @@
 <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px;">
   <h1 align="center">Mixture-of-experts transformers for non-local meta-GGA functionals</h1>
-  <p align="center">
-    This repository contains research code for the project (in preparation): Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals, including all code for model inference. All additional data (datasets, training scripts etc.) has been uploaded to Figshare at the DOI:
-  </p>
+
+  <ul style="list-style-position: inside; text-align: center; padding: 0; margin: 10px 0;">
+    <li style="margin-bottom: 8px;">
+      This repository contains research code for the project (in preparation): 
+      <strong>Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals</strong>
+    </li>
+    <li>
+      All additional data (datasets, training scripts, etc.) has been uploaded to Figshare at the DOI:
+    </li>
+  </ul>
+
 
   <h2 align="center" style="margin-top: 10px; color: #333;">
   Requirements
