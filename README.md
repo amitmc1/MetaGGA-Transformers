@@ -3,7 +3,7 @@
 
   <ul style="list-style-position: inside; text-align: center; padding: 0; margin: 10px 0;">
     <li style="margin-bottom: 8px;">
-      This repository contains research code for the project (in preparation): 
+      This repository contains research code for the manuscript (in preparation): 
       <strong>Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals</strong>
     </li>
     <li>
