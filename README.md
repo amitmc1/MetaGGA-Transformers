@@ -20,23 +20,31 @@
     <em>Summary of the physics-informed deep learning approach for reparameterizing exchange-correlation enhancement factors. The goal is to construct a surrogate model that mimics a faithfully deorbitalized meta-GGA functional, i.e., accurately predicting exchange-correlation energy densities and partial derivatives across real-space integration grids, whilst using only orbital-free input features.</em>
   </p>
 
-  <h2 align="center" style="margin-top: 10px; color: #333;">
+<h2 align="center" style="margin-top: 10px; color: #333;">
   Requirements
-    <p align="center">
-    Pylibxc version 7.0.0: installed via <conda install conda-forge::pylibxc>
-    </p>
-  </h2>
+</h2>
 
-  <h2 align="center" style="margin-top: 10px; color: #333;">
+<p align="center">
+  Pylibxc version 7.0.0: installed via 
+  <code>conda install -c conda-forge pylibxc</code>
+</p>
+
+<h2 align="center" style="margin-top: 10px; color: #333;">
   Data Generation
-  </h2>
+</h2>
 
-  <h2 align="center" style="margin-top: 10px; color: #333;">
-  Testing Meta-GGA Functionals
-  </h2>
+<p align="center">
+  Pylibxc version 7.0.0: installed via 
+  <code>conda install -c conda-forge pylibxc</code>
+</p>
 
-  <h2 align="center" style="margin-top: 10px; color: #333;">
+<h2 align="center" style="margin-top: 10px; color: #333;">
   Inferencing Mixture-of-Experts Model
-  </h2>
+</h2>
+
+<p align="center">
+  Pylibxc version 7.0.0: installed via 
+  <code>conda install -c conda-forge pylibxc</code>
+</p>
   
 </div>
