@@ -25,11 +25,15 @@
   </h2>
 
   <h2 align="center" style="margin-top: 10px; color: #333;">
-  Requirements
+  Data Generation
   </h2>
 
   <h2 align="center" style="margin-top: 10px; color: #333;">
-  Requirements
+  Testing Meta-GGA Functionals
+  </h2>
+
+  <h2 align="center" style="margin-top: 10px; color: #333;">
+  Inferencing Mixture-of-Experts Model
   </h2>
   
 </div>
