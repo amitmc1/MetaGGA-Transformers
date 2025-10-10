@@ -35,9 +35,9 @@
     PyLibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
   </li>
   <li>
-    LibXC shared libraries (<code>libxc.so</code> / <code>libxc.dylib</code>): 
-    copy or symlink from your Conda environment into the virtual environment’s <code>lib/</code> directory, e.g. 
-    <code>cp /path/to/conda/envs/pylibxc_env/lib/libxc.* /scratch/c.c21127846/mace_venv/lib/</code>
+  Libxc shared libraries (<code>libxc.so</code>, <code>libxc.so.0</code>, <code>libxc.so.0.0.0</code>) and 
+  Pylibxc Python bindings: copied from a Conda environment into the Python virtual environment’s 
+  <code>lib/</code> and <code>site-packages/</code> directories, respectively
   </li>
   <li>
     Before activating the virtual environment, export the library path to include Libxc:
