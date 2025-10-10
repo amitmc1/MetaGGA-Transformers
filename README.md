@@ -25,8 +25,8 @@
 </h2>
 
 <p align="center">
-  Pylibxc version 7.0.0: installed via 
-  <code>conda install -c conda-forge pylibxc</code>
+  Pylibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
+  General density approximation: installed via <code>pip3 install 'gda@git+https://github.com/Matematija/global-density-approximation.git'</code>
 </p>
 
 <h2 align="center" style="margin-top: 10px; color: #333;">
