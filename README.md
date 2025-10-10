@@ -71,6 +71,9 @@
     The Mixture-of-Experts (MoE) model is inferenced for a pre-computed set of inputs, which requires pre-processing in 5 steps
   </li>
   <li>
+    <code>Clean_dat_files.py</code> cleans the output file from FHI-aims <code>rho_and_derivs_spin_1.dat</code>
+  </li>
+  <li>
     <code>Eval_MGGA_X_MS2.py</code> inferences the General Density Approximation (GDA) kinetic energy density functional, given the FHI-aims computed inputs
   </li>
   <li>
