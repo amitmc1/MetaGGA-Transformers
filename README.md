@@ -1,5 +1,5 @@
 <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px;">
-  <h1 align="center">Neural network deorbitalized meta-GGA functionals</h1>
+  <h1 align="center">Mixture-of-experts transformers for non-local meta-GGA functionals</h1>
   <p align="center">
     This repository contains data for the project (in preparation): Mixture-of-experts transformers for faithfully deorbitalized meta-GGA density functionals
   </p>
