@@ -57,7 +57,7 @@
     All training data was generated using the FHI-aims software, via post-processing of self-consistent densities (corresponding to optimised geometries from meta-GGA DFT calculations). Post-processing is performed using the <code>rho_and_derivs_on_grid</code> keyword, as detailed in the manual (see <a href="https://fhi-aims.org/" target="_blank" style="color: #1a73e8; text-decoration: none;">https://fhi-aims.org/</a>)
   </li>
   <li>
-    Data to evaluate faithful deorbitalization for non-self-consistent densities was obtained via similar post-processing of meta-GGA DFT outputs, but for intermediate densities sampled along the SCF cycle. Non-self-consistent densities were generated and post-prcoessed using the keywords <code>rho_and_derivs_on_grid</code>, <code>sc_iter_limit</code> and <code>postprocess_anyway</code>. 
+    Data to evaluate faithful deorbitalization for non-self-consistent densities was obtained via similar post-processing of meta-GGA DFT outputs, but for intermediate densities sampled along the SCF cycle. Non-self-consistent densities were generated and post-processed using the keywords <code>rho_and_derivs_on_grid</code>, <code>sc_iter_limit</code> and <code>postprocess_anyway</code>. 
   </li>
 
 </ul>
