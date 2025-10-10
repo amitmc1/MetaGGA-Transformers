@@ -24,13 +24,16 @@
   Requirements
 </h2>
 
-<p align="center">
-  Pylibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
-</p>
-
-<p align="center">
-  General density approximation: installed via <code>pip3 install 'gda@git+https://github.com/Matematija/global-density-approximation.git'</code>
-</p>
+<ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
+  <li>
+    Pylibxc version 7.0.0: installed via 
+    <code>conda install -c conda-forge pylibxc</code>
+  </li>
+  <li>
+    General Density Approximation: installed via 
+    <code>pip3 install 'gda@git+https://github.com/Matematija/global-density-approximation.git'</code>
+  </li>
+</ul>
 
 <h2 align="center" style="margin-top: 10px; color: #333;">
   Data Generation
