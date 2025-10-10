@@ -32,7 +32,10 @@
     Core packages: <code>pip install torch numpy pandas matplotlib e3nn</code>
   </li>
   <li>
-    PyLibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
+    General density approximation: installed via <code>pip3 install 'gda@git+https://github.com/Matematija/global-density-approximation.git'<code>
+  </li>
+  <li>
+    Pylibxc version 7.0.0: installed via <code>conda install -c conda-forge pylibxc</code>
   </li>
   <li>
   Libxc shared libraries (<code>libxc.so</code>, <code>libxc.so.0</code>, <code>libxc.so.0.0.0</code>) and 
