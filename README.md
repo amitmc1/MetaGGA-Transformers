@@ -66,7 +66,7 @@
 
 <ul style="list-style-position: outside; text-align: left; width: 80%; margin: 0 auto; padding-left: 40px;">
   <li>
-    All training data was generated using the FHI-aims software, via post-processing of self-consistent densities (corresponding to optimised geometries from meta-GGA DFT calculations). Post-processing is performed using the <code>rho_and_derivs_on_grid</code> keyword, as detailed in the manual (see <a href="https://fhi-aims.org/" target="_blank" style="color: #1a73e8; text-decoration: none;">https://fhi-aims.org/</a>)
+Add description of paths, inputs, outputs ...
   </li>
 </ul>
 
