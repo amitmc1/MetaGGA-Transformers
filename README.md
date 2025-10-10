@@ -1,5 +1,5 @@
 <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px;">
-  <h1 align="center">Learning deorbitalized meta-GGA functionals with transformers</h1>
+  <h1 align="center">Learning meta-GGA functionals with transformers</h1>
 
   <ul style="list-style-position: inside; text-align: center; padding: 0; margin: 10px 0;">
     <li style="margin-bottom: 8px;">
