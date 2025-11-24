@@ -3,8 +3,8 @@
 
   <ul style="list-style-position: inside; text-align: center; padding: 0; margin: 10px 0;">
     <li style="margin-bottom: 8px;">
-      This repository contains research code for the manuscript (in preparation): 
-      <strong>Mixture-of-Experts Transformers for Faithfully Deorbitalized Meta-GGA Density Functionals</strong>
+      This repository contains research code for the ChemRxiv pre-print: <a href="https://doi.org/10.26434/chemrxiv-2025-mrgzj" target="_blank" style="text-decoration: none; font-weight: bold; color: black;">
+        Mixture-of-Experts Transformers for Faithfully Deorbitalized Meta-GGA Density Functionals 
     </li>
     <li>
       All additional data (datasets, training scripts, model weights, etc.) have been uploaded to Figshare at the DOI: <a href="https://doi.org/10.6084/m9.figshare.30328855.v1" target="_blank" style="color: #1a73e8; text-decoration: none;">https://doi.org/10.6084/m9.figshare.30328855.v1</a>
