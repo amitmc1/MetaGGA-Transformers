@@ -3,7 +3,7 @@
 
   <ul style="list-style-position: inside; text-align: center; padding: 0; margin: 10px 0;">
     <li style="margin-bottom: 8px;">
-      This repository contains research code for the ChemRxiv pre-print: <a href="https://doi.org/10.26434/chemrxiv-2025-mrgzj" target="_blank" style="text-decoration: none; font-weight: bold; color: black;">
+      This repository contains research code for the ChemRxiv pre-print: <a href="https://doi.org/10.26434/chemrxiv-2025-mrgzj-v2" target="_blank" style="text-decoration: none; font-weight: bold; color: black;">
         Mixture-of-Experts Transformers for Faithfully Deorbitalized Meta-GGA Density Functionals 
     </li>
     <li>
